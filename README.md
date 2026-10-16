@@ -1,5 +1,5 @@
 # part2-raceday
-# RaceDay-API-part 2
+# RaceDay API-part 2
 #SWAGGER
 
 YOUTUBE LINK https://youtu.be/_tuwAzBIQVI 
