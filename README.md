@@ -215,7 +215,7 @@ GitHub Actions can be configured to restore dependencies, build the solution, an
 
 The workflow should use a .NET SDK compatible with the project and test-project target frameworks.
 
-## 11. Future Improvements
+## 11. Future Improvements coming
 
 Possible improvements include:
 
