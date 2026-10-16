@@ -3,7 +3,7 @@
 
 YOUTUBE LINK https://youtu.be/_tuwAzBIQVI
 
-## 1. Project OvervieW
+## 1. Project Overview
 
 RaceDay is an ASP.NET Core Web API developed to manage racing events and participant registrations. The system provides functionality for users to register and log in, organisers to manage events, and participants to enrol in available events.
 
