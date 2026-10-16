@@ -2,7 +2,7 @@
 # RaceDay API
 #SWAGGER
 
-YOUTUBE LINK https://youtu.be/_tuwAzBIQVI
+YOUTUBE LINK https://youtu.be/_tuwAzBIQVI 
 
 ## 1. Project Overview
 
@@ -10,7 +10,7 @@ RaceDay is an ASP.NET Core Web API developed to manage racing events and partici
 
 The project uses a relational database to store information about users, roles, event categories, events, and registrations.
 
-## 2. Project Objectives
+## 2. Project Objective
 
 The main objectives of the RaceDay API are to:
 
